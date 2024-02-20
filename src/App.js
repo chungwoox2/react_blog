@@ -20,7 +20,7 @@ function App() {
 
       <button onClick={()=>{
           let copy=[...a];
-          copy[0]="여자 코트 추천"
+          copy[0]="여자 코트 추천~"
           b(copy)
         }}>첫번쨰 제목 변경하기</button>
 
