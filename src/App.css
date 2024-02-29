@@ -49,3 +49,9 @@
   text-align: left;
   border-bottom: 1px solid grey;
 }
+.modal{
+  background-color: #eee;
+  margin-top:20px;
+  padding: 20px;
+  text-align: left;
+}
